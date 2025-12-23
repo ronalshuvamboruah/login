@@ -1,0 +1,44 @@
+{"level":"info","message":"2025-12-23T10:03:19.214Z POST /api/users - start","timestamp":"2025-12-23T10:03:19.215Z"}
+{"level":"info","message":"2025-12-23T10:03:19.322Z POST /api/users - done - status 500 - 108ms","timestamp":"2025-12-23T10:03:19.322Z"}
+{"level":"info","message":"2025-12-23T10:03:29.905Z POST /api/users - start","timestamp":"2025-12-23T10:03:29.905Z"}
+{"level":"info","message":"2025-12-23T10:03:30.006Z POST /api/users - done - status 500 - 101ms","timestamp":"2025-12-23T10:03:30.006Z"}
+{"level":"info","message":"2025-12-23T10:09:30.779Z GET /api/users/693bc4050b0de9dce68ced4c - start","timestamp":"2025-12-23T10:09:30.786Z"}
+{"level":"info","message":"2025-12-23T10:09:30.819Z GET /api/users/693bc4050b0de9dce68ced4c - done - status 404 - 40ms","timestamp":"2025-12-23T10:09:30.819Z"}
+{"level":"info","message":"2025-12-23T10:09:33.639Z GET /api/users/al - start","timestamp":"2025-12-23T10:09:33.639Z"}
+{"level":"info","message":"2025-12-23T10:09:33.659Z GET /api/users/al - done - status 200 - 20ms","timestamp":"2025-12-23T10:09:33.659Z"}
+{"level":"info","message":"2025-12-23T10:10:02.427Z POST /api/users - start","timestamp":"2025-12-23T10:10:02.427Z"}
+{"level":"info","message":"2025-12-23T10:10:02.565Z POST /api/users - done - status 201 - 138ms","timestamp":"2025-12-23T10:10:02.565Z"}
+{"level":"info","message":"2025-12-23T10:10:56.197Z POST /api/users - start","timestamp":"2025-12-23T10:10:56.197Z"}
+{"level":"info","message":"2025-12-23T10:10:56.198Z POST /api/users - done - status 400 - 1ms","timestamp":"2025-12-23T10:10:56.198Z"}
+{"level":"info","message":"2025-12-23T10:15:35.466Z POST /api/users - start","timestamp":"2025-12-23T10:15:35.467Z"}
+{"level":"info","message":"2025-12-23T10:15:35.578Z POST /api/users - done - status 201 - 112ms","timestamp":"2025-12-23T10:15:35.579Z"}
+{"level":"info","message":"2025-12-23T10:15:42.601Z POST /api/users - start","timestamp":"2025-12-23T10:15:42.601Z"}
+{"level":"info","message":"2025-12-23T10:15:42.609Z POST /api/users - done - status 409 - 8ms","timestamp":"2025-12-23T10:15:42.609Z"}
+{"level":"info","message":"2025-12-23T10:15:44.794Z POST /api/users - start","timestamp":"2025-12-23T10:15:44.794Z"}
+{"level":"info","message":"2025-12-23T10:15:44.800Z POST /api/users - done - status 409 - 6ms","timestamp":"2025-12-23T10:15:44.800Z"}
+{"level":"info","message":"2025-12-23T10:20:12.291Z POST /api/users - start","timestamp":"2025-12-23T10:20:12.292Z"}
+{"level":"info","message":"2025-12-23T10:20:29.749Z POST /api/users - done - status 201 - 17458ms","timestamp":"2025-12-23T10:20:29.749Z"}
+{"level":"info","message":"2025-12-23T10:21:20.258Z GET /api/users/693bc4050b0de9dce68ced4c - start","timestamp":"2025-12-23T10:21:20.258Z"}
+{"level":"info","message":"2025-12-23T10:21:20.263Z GET /api/users/693bc4050b0de9dce68ced4c - done - status 404 - 5ms","timestamp":"2025-12-23T10:21:20.263Z"}
+{"level":"info","message":"2025-12-23T10:21:23.139Z GET /api/users/al - start","timestamp":"2025-12-23T10:21:23.139Z"}
+{"level":"info","message":"2025-12-23T10:21:23.153Z GET /api/users/al - done - status 200 - 14ms","timestamp":"2025-12-23T10:21:23.153Z"}
+{"level":"info","message":"2025-12-23T10:21:55.503Z DELETE /api/users/6943c0fa1d44c96d0969afc4 - start","timestamp":"2025-12-23T10:21:55.503Z"}
+{"level":"info","message":"2025-12-23T10:21:55.513Z DELETE /api/users/6943c0fa1d44c96d0969afc4 - done - status 200 - 10ms","timestamp":"2025-12-23T10:21:55.513Z"}
+{"level":"info","message":"2025-12-23T10:22:02.620Z GET /api/users/al - start","timestamp":"2025-12-23T10:22:02.620Z"}
+{"level":"info","message":"2025-12-23T10:22:02.628Z GET /api/users/al - done - status 200 - 8ms","timestamp":"2025-12-23T10:22:02.628Z"}
+{"level":"info","message":"2025-12-23T10:23:10.154Z GET /api/users/694a6cdc7faa261de494a7da - start","timestamp":"2025-12-23T10:23:10.154Z"}
+{"level":"info","message":"2025-12-23T10:23:10.161Z GET /api/users/694a6cdc7faa261de494a7da - done - status 200 - 7ms","timestamp":"2025-12-23T10:23:10.161Z"}
+{"level":"info","message":"2025-12-23T10:35:28.313Z POST /api/users - start","timestamp":"2025-12-23T10:35:28.314Z"}
+{"level":"info","message":"2025-12-23T10:35:31.892Z POST /api/users - done - status 201 - 3579ms","timestamp":"2025-12-23T10:35:31.892Z"}
+{"level":"info","message":"2025-12-23T10:35:34.328Z POST /api/users - start","timestamp":"2025-12-23T10:35:34.328Z"}
+{"level":"info","message":"2025-12-23T10:35:34.331Z POST /api/users - done - status 409 - 3ms","timestamp":"2025-12-23T10:35:34.331Z"}
+{"level":"info","message":"2025-12-23T10:35:39.743Z POST /api/users - start","timestamp":"2025-12-23T10:35:39.744Z"}
+{"level":"info","message":"2025-12-23T10:35:39.845Z POST /api/users - done - status 201 - 102ms","timestamp":"2025-12-23T10:35:39.845Z"}
+{"level":"info","message":"2025-12-23T10:42:42.548Z POST /api/users - start","timestamp":"2025-12-23T10:42:42.549Z"}
+{"level":"info","message":"2025-12-23T10:42:44.700Z POST /api/users - done - status 201 - 2152ms","timestamp":"2025-12-23T10:42:44.700Z"}
+{"level":"info","message":"2025-12-23T10:43:40.149Z POST /api/users - start","timestamp":"2025-12-23T10:43:40.150Z"}
+{"level":"info","message":"2025-12-23T10:43:44.123Z POST /api/users - done - status 201 - 3974ms","timestamp":"2025-12-23T10:43:44.123Z"}
+{"level":"info","message":"2025-12-23T10:46:46.349Z POST /api/users - start","timestamp":"2025-12-23T10:46:46.350Z"}
+{"level":"info","message":"2025-12-23T10:46:50.793Z POST /api/users - done - status 201 - 4444ms","timestamp":"2025-12-23T10:46:50.793Z"}
+{"level":"info","message":"2025-12-23T10:47:15.650Z GET /api/users/694a7316001e1ac0789aa9ab - start","timestamp":"2025-12-23T10:47:15.650Z"}
+{"level":"info","message":"2025-12-23T10:47:15.654Z GET /api/users/694a7316001e1ac0789aa9ab - done - status 200 - 4ms","timestamp":"2025-12-23T10:47:15.654Z"}
